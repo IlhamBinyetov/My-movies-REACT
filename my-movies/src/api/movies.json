@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Beyin ogurlanmasi",
+      "rating": 9,
+      "overview": "Bey ogurlandi",
+      "imageUrl": "https://www.themoviedb.org/t/p/original/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Qaynana",
+      "rating": 8,
+      "overview": "Nesibe Zeynalova",
+      "imageUrl": "https://www.themoviedb.org/t/p/original/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ulduz",
+      "rating": 8.5,
+      "overview": "Nazik ona dermandir",
+      "imageUrl": "https://www.themoviedb.org/t/p/original/vDHsLnOWKlPGmWs0kGfuhNF4w5l.jpg"
+    }
+  ]
+}
